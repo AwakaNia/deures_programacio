@@ -52,7 +52,7 @@ public class Exercici0005 {
         
         for (String text : exemples) {
             boolean esPalindrom = isPalindrom(text);
-            System.out.println(text + " (" + (esPalindrom ? "Si" : "No") + ")");
+            System.out.println(text + " (" + (esPalindrom ? "Si" : "N0") + ")");
         }
     }
 }
